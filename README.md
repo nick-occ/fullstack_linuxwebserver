@@ -21,3 +21,7 @@ First installed finger in order to lookup quick information for users.  Updated 
 ##*Resources*
 Found that the reference links in the project information PDF has a lot of good information to help perform the required tasks.
 [Discussion Boards](https://discussions.udacity.com/t/markedly-underwhelming-and-potentially-wrong-resource-list-for-p5/8587)
+
+##*Access*
+Username: grader <br>
+Password: ibCuWyg=Cugs0
